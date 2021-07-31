@@ -18,4 +18,4 @@ bin/
 
 !.vscode
 
-__debug_bin
+cmd/hook/__debug_bin
